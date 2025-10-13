@@ -1,3 +1,4 @@
+import { backInOut } from 'framer-motion';
 import React from 'react';
 
 interface BadgeProps {
@@ -12,7 +13,7 @@ const Badge: React.FC<BadgeProps> = ({
   className = '',
 }) => {
   const variantClasses = {
-    primary: 'bg-primary-100 text-primary-700',
+    primary: 'bg-primary-100 text-primary-600 text-amber-300',
     secondary: 'bg-secondary-100 text-secondary-700',
     success: 'bg-green-100 text-green-700',
     warning: 'bg-amber-100 text-amber-700',
