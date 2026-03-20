@@ -6,7 +6,7 @@ A robust, centralized dashboard for monitoring, managing, and optimizing hospita
 
 - **Centralized Dashboard:** Monitor total capacity, occupied beds, and available resources in real-time across a network of hospitals.
 - **Interactive Analytics:** Visual data representation using dynamic charts (Recharts) to track occupancy trends and department-wise bed availability.
-- **Responsive Animations:** Fluid transitions and micro-interactions powered by Framer Motion for a premium user experience.
+- **Responsive Animations:** Fluid transitions and micro-interactions powered by Framer Motion for a premium user experience .
 - **Secure Navigation:** Seamless client-side routing implemented with React Router DOM.
 - **Modern UI Components  :** Accessible, beautifully designed components using Tailwind CSS and Headless UI.
 - **Vector Icons:** Clean, scalable iconography using Lucide React.
