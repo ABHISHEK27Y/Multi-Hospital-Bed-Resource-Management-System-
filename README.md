@@ -15,7 +15,7 @@ A robust, centralized dashboard for monitoring, managing, and optimizing hospita
 
 - **Frontend Framework:** React 18 with TypeScript
 - **Build Tool:** Vite (for lightning-fast HMR and optimized builds)
-- **Styling:** Tailwind CSS & Autoprefixer
+- **Styling:** Tailwind CSS &  Autoprefixer
 - **UI Libraries:** Headless UI
 - **Animations:** Framer Motion
 - **Data Visualization:** Recharts
